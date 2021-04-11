@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"outside..json"
+        }
+    },
  "height":100,
  "infinite":true,
  "layers":[
@@ -699,28 +707,95 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":8,
          "firstgid":1,
-         "source":"floortileset.tsx"
+         "image":"..\/..\/assets\/floortileset.png",
+         "imageheight":256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"floortileset",
+         "spacing":0,
+         "tilecount":64,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":65,
-         "source":"forest_tiles.tsx"
+         "image":"..\/..\/assets\/forest_tiles.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"forest_tiles",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":7,
          "firstgid":321,
-         "source":"hakuna_matetee.tsx"
+         "image":"..\/..\/assets\/hakuna_matetee.png",
+         "imageheight":96,
+         "imagewidth":224,
+         "margin":0,
+         "name":"hakuna_matetee",
+         "spacing":0,
+         "tilecount":21,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":9,
          "firstgid":342,
-         "source":"house.tsx"
+         "image":"..\/..\/assets\/LPC Base Assets\/tiles\/house.png",
+         "imageheight":224,
+         "imagewidth":288,
+         "margin":0,
+         "name":"house",
+         "spacing":0,
+         "tilecount":63,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":25,
          "firstgid":405,
-         "source":"Street.tsx"
+         "image":"..\/..\/assets\/Skorpio's Pack\/Street.png",
+         "imageheight":608,
+         "imagewidth":800,
+         "margin":0,
+         "name":"Street",
+         "spacing":0,
+         "tilecount":475,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":2,
          "firstgid":880,
-         "source":"metal.tsx"
+         "image":"..\/..\/assets\/metal.png",
+         "imageheight":96,
+         "imagewidth":88,
+         "margin":0,
+         "name":"metal",
+         "spacing":0,
+         "tilecount":6,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":19,
+         "firstgid":886,
+         "image":"..\/..\/assets\/Roguelike Modern City pack\/Spritesheet\/roguelikeCity_magenta.png",
+         "imageheight":475,
+         "imagewidth":628,
+         "margin":0,
+         "name":"roguelikeCity_magenta",
+         "spacing":0,
+         "tilecount":266,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
