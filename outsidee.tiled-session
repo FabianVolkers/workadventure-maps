@@ -138,6 +138,41 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "Factory/Lobby/lobby.json": {
+            "scale": 0.5726,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 785.015717778554,
+                "y": 319.5948305972756
+            }
+        },
+        "Factory/Lobby/lobby.json#Pipes-RustyWalls": {
+            "scaleInDock": 1
+        },
+        "Factory/Lobby/lobby.json#container_wall_lobby": {
+            "scaleInDock": 1
+        },
+        "Factory/Lobby/lobby.json#deco_rc3-mullana-objects": {
+            "scaleInDock": 1
+        },
+        "Factory/Lobby/lobby.json#doors": {
+            "scaleInDock": 1
+        },
+        "Factory/Lobby/lobby.json#floor-black-01": {
+            "scaleInDock": 1
+        },
+        "Factory/Lobby/lobby.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "Factory/Lobby/lobby.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "Factory/Lobby/lobby.json#furniture": {
+            "scaleInDock": 1
+        },
+        "Factory/Lobby/lobby.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
         "Factory/Outside/outside.json": {
             "scale": 0.0997,
             "selectedLayer": 4,
