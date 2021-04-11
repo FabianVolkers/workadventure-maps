@@ -142,8 +142,8 @@
             "scale": 0.5726,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 785.015717778554,
-                "y": 319.5948305972756
+                "x": 783.2692979392245,
+                "y": 317.84841075794617
             }
         },
         "Factory/Lobby/lobby.json#Pipes-RustyWalls": {
@@ -185,7 +185,7 @@
             "scaleInDock": 1
         },
         "Factory/Outside/outside.json#floortileset": {
-            "scaleInDock": 1
+            "scaleInDock": 1.4112
         },
         "Factory/Outside/outside.json#forest_tiles": {
             "scaleInDock": 1
@@ -296,10 +296,10 @@
     "project": "outsidee.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "map.json",
-        "Floor1/floor1.json",
-        "Factory/Outside/outside.tmx",
         "Factory/Outside/outside.json",
+        "Floor1/floor1.json",
+        "map.json",
+        "Factory/Outside/outside.tmx",
         "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/outside.tmx",
         "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/floortileset.tsx",
         "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/forest_tiles.tsx",
