@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Outside\/outside.json"
+                 "value":"..\/Factory\/Outside\/outside.json"
                 }],
          "type":"tilelayer",
          "visible":true,
