@@ -77,11 +77,11 @@
             "scaleInDock": 1
         },
         "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/outside.tmx": {
-            "scale": 0.3624,
-            "selectedLayer": 1,
+            "scale": 0.157,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 122.79249448123619,
-                "y": -1375.5518763796908
+                "x": 417.1974522292994,
+                "y": -162.42038216560513
             }
         },
         "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/outside.tmx#Street": {
@@ -163,11 +163,11 @@
             "scaleInDock": 1
         },
         "Factory/Outside/outside.tmx": {
-            "scale": 0.3181,
-            "selectedLayer": 0,
+            "scale": 0.216,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 83.30713612071679,
-                "y": -542.2823011631563
+                "x": 1090.2777777777776,
+                "y": 1349.537037037037
             }
         },
         "Factory/Outside/outside.tmx#Street": {
