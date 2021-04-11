@@ -163,11 +163,11 @@
             "scaleInDock": 1
         },
         "Factory/Outside/outside.tmx": {
-            "scale": 0.9347,
-            "selectedLayer": 2,
+            "scale": 2.8444,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 2163.7958703327267,
-                "y": 1505.8307478335296
+                "x": 2045.2468007312618,
+                "y": 1408.5571649557025
             }
         },
         "Factory/Outside/outside.tmx#Street": {
@@ -206,11 +206,11 @@
             "scaleInDock": 1
         },
         "Floor1/floor1.json": {
-            "scale": 0.40362367021276596,
+            "scale": 3.0934,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 722.2073964253357,
-                "y": 546.3009636767977
+                "x": 471.487683455098,
+                "y": 427.1998448309304
             }
         },
         "Floor1/floor1.json#deco_rc3-mullana-foyer": {
@@ -226,6 +226,20 @@
             "scaleInDock": 1
         },
         "Floor1/floor1.json#structures_rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "map.json": {
+            "scale": 6.5817,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 799.4135253809806,
+                "y": 69.81478949207651
+            }
+        },
+        "map.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "map.json#office_1": {
             "scaleInDock": 1
         }
     },
