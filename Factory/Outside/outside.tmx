@@ -24,6 +24,9 @@
  <tileset firstgid="886" name="roguelikeCity_magenta" tilewidth="32" tileheight="32" tilecount="266" columns="19">
   <image source="../../assets/Roguelike Modern City pack/Spritesheet/roguelikeCity_magenta.png" width="628" height="475"/>
  </tileset>
+ <tileset firstgid="1152" name="floortileset" tilewidth="32" tileheight="32" tilecount="64" columns="8">
+  <image source="../../assets/floortileset.png" width="256" height="256"/>
+ </tileset>
  <imagelayer id="4" name="Image Layer 2" locked="1" offsetx="-1023.56" offsety="-2559.56">
   <image source="../../assets/satellite-outside.jpeg" width="5084" height="3392"/>
  </imagelayer>
