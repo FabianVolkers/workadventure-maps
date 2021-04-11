@@ -134,11 +134,11 @@
             "scaleInEditor": 1
         },
         "Factory/Outside/outside.json": {
-            "scale": 1.2135,
-            "selectedLayer": 0,
+            "scale": 0.0997,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": -275.64894932014835,
-                "y": -115.78079934074987
+                "x": 1559.6790371113336,
+                "y": 2321.9658976930787
             }
         },
         "Factory/Outside/outside.json#Street": {
@@ -163,11 +163,11 @@
             "scaleInDock": 1
         },
         "Factory/Outside/outside.tmx": {
-            "scale": 0.216,
-            "selectedLayer": 2,
+            "scale": 0.1449,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 1090.2777777777776,
-                "y": 1349.537037037037
+                "x": 1376.8115942028985,
+                "y": 1452.7260179434093
             }
         },
         "Factory/Outside/outside.tmx#Street": {
