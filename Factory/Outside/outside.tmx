@@ -21,7 +21,7 @@
  <tileset firstgid="880" name="floortileset" tilewidth="32" tileheight="32" tilecount="64" columns="8">
   <image source="../../assets/floortileset.png" width="256" height="256"/>
  </tileset>
- <imagelayer id="4" name="Image Layer 2" locked="1" offsetx="-319.56" offsety="288.44">
+ <imagelayer id="4" name="Image Layer 2" visible="0" locked="1" offsetx="123.621" offsety="-161.767">
   <image source="../../assets/satellite-outside.jpeg" width="5084" height="3392"/>
  </imagelayer>
  <layer id="6" name="start" width="202" height="189" offsetx="324.723" offsety="-398.524">
