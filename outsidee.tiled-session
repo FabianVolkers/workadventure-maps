@@ -3,10 +3,15 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/outside.json",
+    "activeFile": "Factory/Outside/outside.tmx",
     "expandedProjectPaths": [
+        "Floor1",
+        "Floor0",
+        "Factory/Lobby",
+        "Factory",
+        "Factory/Outside",
         ".",
-        "Floor0"
+        "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -163,18 +168,18 @@
             "scaleInDock": 1
         },
         "Factory/Outside/outside.tmx": {
-            "scale": 2.8444,
-            "selectedLayer": 3,
+            "scale": 1.8816,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 2045.2468007312618,
-                "y": 1408.5571649557025
+                "x": 3231.5582482993204,
+                "y": 3020.3018707482997
             }
         },
         "Factory/Outside/outside.tmx#Street": {
             "scaleInDock": 1
         },
         "Factory/Outside/outside.tmx#floortileset": {
-            "scaleInDock": 1
+            "scaleInDock": 1.4585
         },
         "Factory/Outside/outside.tmx#forest_tiles": {
             "scaleInDock": 1
@@ -209,8 +214,8 @@
             "scale": 3.0934,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 471.487683455098,
-                "y": 427.1998448309304
+                "x": 719.75819486649,
+                "y": 543.7382815025538
             }
         },
         "Floor1/floor1.json#deco_rc3-mullana-foyer": {
@@ -232,8 +237,8 @@
             "scale": 6.5817,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 799.4135253809806,
-                "y": 69.81478949207651
+                "x": 735.9040977255116,
+                "y": 543.9324186760259
             }
         },
         "map.json#floortileset": {
@@ -249,32 +254,25 @@
     "map.lastUsedExportFilter": "JSON map files (*.json)",
     "map.lastUsedFormat": "json",
     "openFiles": [
-        "Floor0/floor0.json",
-        "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/hakuna_matetee.tsx",
-        "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/city.tsx",
-        "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Lobby/lobby.tmx",
-        "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/house.tsx",
-        "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/roguelikeCity_magenta.tsx",
-        "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/Street.tsx",
-        "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/metal.tsx",
-        "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/forest_tiles.tsx",
-        "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/floortileset.tsx",
-        "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/outside.json"
+        "Factory/Outside/outside.tmx",
+        "Floor1/floor1.json",
+        "map.json"
     ],
     "project": "outsidee.tiled-project",
+    "property.type": "bool",
     "recentFiles": [
+        "map.json",
+        "Floor1/floor1.json",
+        "Factory/Outside/outside.tmx",
         "Factory/Outside/outside.json",
         "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/outside.tmx",
-        "Factory/Outside/outside.tmx",
         "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/floortileset.tsx",
         "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/forest_tiles.tsx",
         "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/metal.tsx",
         "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/Street.tsx",
         "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/roguelikeCity_magenta.tsx",
         "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/house.tsx",
-        "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Lobby/lobby.tmx",
-        "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/city.tsx",
-        "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/hakuna_matetee.tsx"
+        "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Lobby/lobby.tmx"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFormat": "tsx"
