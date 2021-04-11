@@ -168,11 +168,11 @@
             "scaleInDock": 1
         },
         "Factory/Outside/outside.tmx": {
-            "scale": 1.8816,
-            "selectedLayer": 4,
+            "scale": 0.6875,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 3231.5582482993204,
-                "y": 3020.3018707482997
+                "x": 4329.454545454546,
+                "y": 1467.6363636363635
             }
         },
         "Factory/Outside/outside.tmx#Street": {
