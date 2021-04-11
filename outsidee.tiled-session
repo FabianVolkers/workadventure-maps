@@ -163,11 +163,11 @@
             "scaleInDock": 1
         },
         "Factory/Outside/outside.tmx": {
-            "scale": 0.1449,
-            "selectedLayer": 4,
+            "scale": 0.9347,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1376.8115942028985,
-                "y": 1452.7260179434093
+                "x": 2163.7958703327267,
+                "y": 1505.8307478335296
             }
         },
         "Factory/Outside/outside.tmx#Street": {
@@ -203,6 +203,29 @@
             "scaleInDock": 1
         },
         "Floor0/floor0.json#office_1": {
+            "scaleInDock": 1
+        },
+        "Floor1/floor1.json": {
+            "scale": 0.40362367021276596,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 722.2073964253357,
+                "y": 546.3009636767977
+            }
+        },
+        "Floor1/floor1.json#deco_rc3-mullana-foyer": {
+            "scaleInDock": 1
+        },
+        "Floor1/floor1.json#deco_rc3-mullana-neon-signs": {
+            "scaleInDock": 1
+        },
+        "Floor1/floor1.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "Floor1/floor1.json#office_1": {
+            "scaleInDock": 1
+        },
+        "Floor1/floor1.json#structures_rc3-mullana-functionary": {
             "scaleInDock": 1
         }
     },
