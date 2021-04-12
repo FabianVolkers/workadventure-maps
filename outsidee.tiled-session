@@ -3,15 +3,16 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Factory/Outside/outside.tmx",
+    "activeFile": "Floor4/kitchen.json",
     "expandedProjectPaths": [
         "Floor1",
-        "Floor0",
-        "Factory/Lobby",
-        "Factory",
         "Factory/Outside",
+        "Floor0",
         ".",
-        "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside"
+        "Factory",
+        "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside",
+        "Factory/Lobby",
+        "Floor4"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -142,8 +143,8 @@
             "scale": 0.5726,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 783.2692979392245,
-                "y": 317.84841075794617
+                "x": 718.6517638840377,
+                "y": 544.8829898707651
             }
         },
         "Factory/Lobby/lobby.json#Pipes-RustyWalls": {
@@ -174,15 +175,15 @@
             "scaleInDock": 1
         },
         "Factory/Outside/outside.json": {
-            "scale": 0.0997,
-            "selectedLayer": 4,
+            "scale": 0.4056,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 1559.6790371113336,
-                "y": 2321.9658976930787
+                "x": 3231.0157790927015,
+                "y": 3022.6824457593684
             }
         },
         "Factory/Outside/outside.json#Street": {
-            "scaleInDock": 1
+            "scaleInDock": 0.9869
         },
         "Factory/Outside/outside.json#floortileset": {
             "scaleInDock": 1.4112
@@ -206,8 +207,8 @@
             "scale": 0.6875,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 4329.454545454546,
-                "y": 1467.6363636363635
+                "x": 3231.272727272727,
+                "y": 3013.818181818182
             }
         },
         "Factory/Outside/outside.tmx#Street": {
@@ -217,7 +218,8 @@
             "scaleInDock": 1.4585
         },
         "Factory/Outside/outside.tmx#forest_tiles": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Factory/Outside/outside.tmx#hakuna_matetee": {
             "scaleInDock": 1
@@ -236,13 +238,25 @@
             "selectedLayer": 8,
             "viewCenter": {
                 "x": 735.7142857142858,
-                "y": 528.5714285714287
+                "y": 531.4285714285714
             }
+        },
+        "Floor0/floor0.json#collides-floortileset": {
+            "scaleInDock": 1
+        },
+        "Floor0/floor0.json#deco_rc3-mullana-foyer": {
+            "scaleInDock": 1
+        },
+        "Floor0/floor0.json#floor-black-01": {
+            "scaleInDock": 1
         },
         "Floor0/floor0.json#floortileset": {
             "scaleInDock": 1
         },
         "Floor0/floor0.json#office_1": {
+            "scaleInDock": 1
+        },
+        "Floor0/floor0.json#structures_rc3-mullana-functionary": {
             "scaleInDock": 1
         },
         "Floor1/floor1.json": {
@@ -268,6 +282,23 @@
         "Floor1/floor1.json#structures_rc3-mullana-functionary": {
             "scaleInDock": 1
         },
+        "Floor4/kitchen.json": {
+            "scale": 1.4412,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1150.7771301693033,
+                "y": 607.8268109908408
+            }
+        },
+        "Floor4/kitchen.json#forest_tiles": {
+            "scaleInDock": 1
+        },
+        "Floor4/kitchen.json#furniture": {
+            "scaleInDock": 0.7351
+        },
+        "Floor4/kitchen.json#pipo_base_2": {
+            "scaleInDock": 0.8299
+        },
         "map.json": {
             "scale": 6.5817,
             "selectedLayer": 2,
@@ -284,30 +315,32 @@
         }
     },
     "last.exportedFilePath": "/Users/fabianvolkers/Developer/workadventure-maps/Factory/Outside",
-    "last.imagePath": "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/assets",
+    "last.imagePath": "/Users/fabianvolkers/Developer/workadventure-maps/assets",
     "map.fixedSize": false,
     "map.lastUsedExportFilter": "JSON map files (*.json)",
     "map.lastUsedFormat": "json",
     "openFiles": [
         "Factory/Outside/outside.tmx",
-        "Floor1/floor1.json",
-        "map.json"
+        "map.json",
+        "Factory/Lobby/lobby.json",
+        "Factory/Outside/outside.json",
+        "Floor4/kitchen.json"
     ],
     "project": "outsidee.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
-        "Factory/Outside/outside.json",
-        "Floor1/floor1.json",
-        "map.json",
         "Factory/Outside/outside.tmx",
+        "map.json",
+        "Factory/Lobby/lobby.json",
+        "Factory/Outside/outside.json",
+        "Floor4/kitchen.json",
+        "Floor0/floor0.json",
+        "Floor1/floor1.json",
         "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/outside.tmx",
         "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/floortileset.tsx",
         "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/forest_tiles.tsx",
         "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/metal.tsx",
-        "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/Street.tsx",
-        "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/roguelikeCity_magenta.tsx",
-        "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/house.tsx",
-        "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Lobby/lobby.tmx"
+        "/Volumes/GoogleDrive/My Drive/0 Projects/CODE Campus Adventure/Maps/Factory/Outside/Street.tsx"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFormat": "tsx"
